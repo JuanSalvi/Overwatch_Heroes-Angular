@@ -1,5 +1,5 @@
 # Overwatch_Heroes-Angular
-> [CLIC PARA VISITAR]([overwatch-heroes-angular.netlify.app](https://overwatch-heroes-angular.netlify.app/dashboard)).
+> [CLIC PARA VISITAR](https://overwatch-heroes-angular.netlify.app/dashboard).
 
 **Capturas de Pagina:**<br><br>
 ![image](https://user-images.githubusercontent.com/91103822/199393984-dac2fbaf-10b8-4e1c-882b-c732d652b245.png)
